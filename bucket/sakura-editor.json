@@ -4,9 +4,9 @@
         "identifier": "Freeware",
         "url": "https://raw.githubusercontent.com/sakura-editor/sakura/master/LICENSE"
     },
-    "version": "2.4.0",
-    "url": "https://github.com/sakura-editor/sakura/releases/download/v2.4.0/sakura-tag-v2.4.0-build2686-782347a-Win32-Release-Exe.zip",
-    "hash": "63746669E1FC224FED27C499D33A50FAFEE58133048AA3719DB62D5205ADD9EE",
+    "version": "2.4.1",
+    "url": "https://github.com/sakura-editor/sakura/releases/download/v2.4.1/sakura-tag-v2.4.1-build2849-ee8234f-Win32-Release-Exe.zip",
+    "hash": "4a906b211af88de6112e0cd636e867a2699202e36731140d9520b91b6649b319",
     "bin": "sakura.exe",
     "shortcuts": [
         [
