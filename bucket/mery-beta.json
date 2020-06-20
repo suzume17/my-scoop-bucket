@@ -1,0 +1,38 @@
+{
+    "homepage": "https://www.haijin-boys.com/wiki/",
+    "license": "Proprietary",
+    "version": "3.0.3",
+    "architecture": {
+        "64bit": {
+            "url": "http://download.haijin-boys.com/download/Mery-x64-3.0.3.zip",
+            "hash": "743ea0fa27585ea9f8542211fc6d83c81110f23782ad59b6beda035912839d42"
+        },
+        "32bit": {
+            "url": "http://download.haijin-boys.com/download/Mery-3.0.3.zip",
+            "hash": "1d022d26d605782f7732030dda7672585b975241e4a35dba93558f61d4c26d6b"
+        }
+    },
+    "extract_dir": "Mery",
+    "bin": "Mery.exe",
+    "persist": "Plugins",
+    "shortcuts": [
+        [
+            "Mery.exe",
+            "Mery"
+        ]
+    ],
+    "checkver": {
+        "url": "https://www.haijin-boys.com/software/mery",
+        "re": "Ver ([\\d.]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "http://download.haijin-boys.com/download/Mery-x64-$version.zip"
+            },
+            "32bit": {
+                "url": "http://download.haijin-boys.com/download/Mery-$version.zip"
+            }
+        }
+    }
+}
