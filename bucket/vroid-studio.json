@@ -1,0 +1,26 @@
+{
+    "homepage": "https://vroid.com/studio",
+    "license": {
+        "identifier": "Proprietary",
+        "url": "https://policies.pixiv.net/#vroidstudio"
+    },
+    "version": "0.9.5",
+    "url": "https://download.vroid.com/dist/VRoidStudio-v0.9.5-win.zip",
+    "hash": "629a3f03a1e86d990e3cc9dfd89465f2f3794a104f12448b933c4de76026ac86",
+    "extract_dir": "VRoidStudio-v0.9.5-win",
+    "bin": "VRoidStudio.exe",
+    "shortcuts": [
+        [
+            "VRoidStudio.exe",
+            "VRoid Studio"
+        ]
+    ],
+    "checkver": {
+        "url": "https://vroid.com/studio/",
+        "re": "VRoidStudio-v([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://download.vroid.com/dist/VRoidStudio-v$version-win.zip",
+        "extract_dir": "VRoidStudio-v$version-win"
+    }
+}
