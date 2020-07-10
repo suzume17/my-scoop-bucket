@@ -1,8 +1,8 @@
 {
     "homepage": "https://github.com/karakaram/alt-ime-ahk",
-    "version": "0.4.3",
-    "url": "https://github.com/karakaram/alt-ime-ahk/releases/download/v0.4.3/alt-ime-ahk.zip",
-    "hash": "F22BFE5DE9002009363285F2829C476521A9026026D9011B42581ED5717D9478",
+    "version": "0.4.4",
+    "url": "https://github.com/karakaram/alt-ime-ahk/releases/download/v0.4.4/alt-ime-ahk.zip",
+    "hash": "e48b5762aba641e929519dc00a2cfb978923650e9829973c56984a789429cdf8",
     "bin": "alt-ime-ahk.exe",
     "shortcuts": [
         [
