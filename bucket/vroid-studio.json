@@ -4,10 +4,10 @@
         "identifier": "Proprietary",
         "url": "https://policies.pixiv.net/#vroidstudio"
     },
-    "version": "0.10.3",
-    "url": "https://download.vroid.com/dist/VRoidStudio-v0.10.3-win.zip",
-    "hash": "6b169a40bdc24ada91a667176df8ac1ea201c472afe9459ba0294ae60b2a34a5",
-    "extract_dir": "VRoidStudio-v0.10.3-win",
+    "version": "0.10.4",
+    "url": "https://download.vroid.com/dist/VRoidStudio-v0.10.4-win.zip",
+    "hash": "0de0f9a978f1f679e1b820c4f6d112de79266bbc5cab15f5f9c853b052c82585",
+    "extract_dir": "VRoidStudio-v0.10.4-win",
     "bin": "VRoidStudio.exe",
     "shortcuts": [
         [
