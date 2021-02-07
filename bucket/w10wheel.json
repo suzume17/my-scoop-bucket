@@ -4,10 +4,10 @@
         "identifier": "MIT",
         "url": "https://raw.githubusercontent.com/ykon/w10wheel.net/master/License.txt"
     },
-    "version": "2.7.2",
-    "url": "https://github.com/ykon/w10wheel.net/releases/download/v2.7.2/W10Wheel.NET-2.7.2.zip",
-    "hash": "795326b701425b3b31dd1690a5a83cda4a07132034252471de839d16355dd0fe",
-    "extract_dir": "W10Wheel.net-2.7.2",
+    "version": "2.7.3",
+    "url": "https://github.com/ykon/w10wheel.net/releases/download/v2.7.3/W10Wheel.NET-2.7.3.zip",
+    "hash": "daf8a2624267d257592ab9a124e674e68f5727acfbddedf4a0884981c08556f9",
+    "extract_dir": "W10Wheel.net-2.7.3",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/ykon/w10wheel.net/releases/download/v$version/W10Wheel.NET-$version.zip",
